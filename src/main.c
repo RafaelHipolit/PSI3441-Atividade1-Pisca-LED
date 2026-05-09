@@ -2,6 +2,8 @@
 #include <zephyr/device.h>
 #include <zephyr/drivers/gpio.h>
 
+// semafaro
+
 #define SLEEP_TIME_1_SEC 1000
 
 // Define o LED usando Device Tree
