@@ -1,5 +1,11 @@
 # Atividade 1 - Pisca-LED e Semafaro
 
+## Semaforo
+
+- verde 5 seg
+- amarelo 3 seg
+- vermelho 5 seg
+
 
 How to build PlatformIO based project
 =====================================
